@@ -1,0 +1,5 @@
+#item-sb:hover{
+    background-color: #42a5f5;
+    font-size: 20px;
+    transition: 500ms;
+}
